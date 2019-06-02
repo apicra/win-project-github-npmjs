@@ -3,7 +3,9 @@ Project created by Apicra, https://github.com/apicra/npm-github-win.git
 
 Install
 
-    -apicra.bat install win-project-github-npmjs
+win-project-github-npmjs
+
+    -apicra.bat install project-github-npmjs
 
 
 

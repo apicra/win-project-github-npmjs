@@ -21,6 +21,6 @@ cd %PROJ_FOLDER%
 echo # %PROJ% > README.md
 echo %DESCRIPTION% >> README.md
 echo # Licence > LICENCE.md
-..\.apicra\-git-create.bat %GIT_USER% %PROJ%
+..\..\module\-github\create.bat %GIT_USER% %PROJ%
 echo Project: "%PROJ%" is Created
 dir
